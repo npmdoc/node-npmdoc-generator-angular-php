@@ -1,4 +1,7 @@
-# api documentation for  [generator-angular-php (v0.6.3)](https://github.com/amercier/generator-angular-php)  [![npm package](https://img.shields.io/npm/v/npmdoc-generator-angular-php.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-generator-angular-php) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-generator-angular-php.svg)](https://travis-ci.org/npmdoc/node-npmdoc-generator-angular-php)
+# npmdoc-generator-angular-php
+
+#### basic api documentation for  [generator-angular-php (v0.6.3)](https://github.com/amercier/generator-angular-php)  [![npm package](https://img.shields.io/npm/v/npmdoc-generator-angular-php.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-generator-angular-php) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-generator-angular-php.svg)](https://travis-ci.org/npmdoc/node-npmdoc-generator-angular-php)
+
 #### Yeoman generator for AngularJS with a PHP backend. Based on generator-angular. /api is redirected by grunt-connect-proxy to the PHP built-in server using grunt-php
 
 [![NPM](https://nodei.co/npm/generator-angular-php.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/generator-angular-php)
@@ -105,7 +108,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.6.3"
+    "version": "0.6.3",
+    "bin": {}
 }
 ```
 
